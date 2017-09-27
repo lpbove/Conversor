@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="Dollar">Dollars</string>
+    <string name="Dollars">Dollars</string>
+    <string name="Euros">Euros</string>
+    <string name="Convert">Convert</string>
+    <string name="dollar">dollar</string>
+</resources>
